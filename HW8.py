@@ -170,7 +170,6 @@ class TestHW8(unittest.TestCase):
         self.assertEqual(best_category, self.best_category)
 
 
-
 if __name__ == '__main__':
 
     DB_FILE = 'South_U_Restaurants.db'
